@@ -4,4 +4,4 @@ Exel data analysis projects
 
 ## Dashboard
 You can download and explore the Excel dashboard here:
-[Download Dashboard](dashboards/dashboard.xlsx)
+[Download Dashboard](Bike Sales Dashboard.xlsx)
