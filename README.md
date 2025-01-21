@@ -26,6 +26,7 @@ You can download and explore the Excel dashboard here:
 [Consulting Project Dashboard](ConsultingProjectDashboard.xlsx) dataset extracted from [Kenji](https://www.careerprinciples.com/)
 
 dashboard image
+[Car Accident Dashboard.pdf](https://github.com/user-attachments/files/18493249/Car.Accident.Dashboard.pdf)
 
 project insight
 
