@@ -1,22 +1,5 @@
-# Excel-Data-Analysis
+# Excel dashboards
 
-Excel data analysis projects
-## Questions (KPIs)
-1.
-2.
-3.
-4.
-5.
-![Car accident dashboard](https://github.com/user-attachments/assets/36ea0824-73e7-495a-ab44-b8e7bfbe54fd)
-
-
-## Dataset used
-
-[Dataset]
-
-process
-
-You can download and explore the Excel dashboard here:
 
 [Burger Sales Dashboard](BurgerSalesDashboard.xlsx) dataset extracted from [Kenji](https://www.careerprinciples.com/)
 
@@ -26,8 +9,4 @@ You can download and explore the Excel dashboard here:
 
 [Consulting Project Dashboard](ConsultingProjectDashboard.xlsx) dataset extracted from [Kenji](https://www.careerprinciples.com/)
 
-dashboard image
-[Car Accident Dashboard.pdf](https://github.com/user-attachments/files/18493249/Car.Accident.Dashboard.pdf)
-
-project insight
 
