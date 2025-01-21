@@ -7,6 +7,7 @@ Excel data analysis projects
 3.
 4.
 5.
+![Car accident dashboard](https://github.com/user-attachments/assets/36ea0824-73e7-495a-ab44-b8e7bfbe54fd)
 
 
 ## Dataset used
